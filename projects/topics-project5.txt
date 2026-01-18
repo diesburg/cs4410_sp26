@@ -1,0 +1,19 @@
+
+Group 1 is assigned intrusion detection/prevention systems - present 4/5
+
+
+Group 2 is assigned logging - present 4/5
+
+
+Group 3 is assigned SQL injection prevention - present 4/5
+
+
+Group 4 is assigned XSS prevention - present 4/3
+
+
+Group 5 is assigned firewalls - present 4/3
+
+
+Group 6 is assigned file/directory permissions - present 4/3
+
+

@@ -1,0 +1,18 @@
+
+Group 1 is assigned SQL injection - present 1/25
+
+
+Group 2 is assigned vulnerability enumeration tools - present 1/25
+
+
+Group 3 is assigned network enumeration tools - present 1/25
+
+
+Group 4 is assigned rootkits - present 1/28
+
+
+Group 5 is assigned XSS - present 1/28
+
+
+Group 6 is assigned password cracking - present 1/28
+
